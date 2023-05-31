@@ -11,7 +11,6 @@
  
 ![image](https://github.com/leson207/ID_Card/assets/74070396/49c1b522-f427-4c9a-ba07-081118aff8f5)
 ![image](https://github.com/leson207/ID_Card/assets/74070396/a38d38ba-a4b5-40e9-a583-5bb5f32310ec)
-![image](https://github.com/leson207/ID_Card/assets/74070396/36f8ec4c-64dc-4ecf-867f-99b20338adc0)
 ![image](https://github.com/leson207/ID_Card/assets/74070396/78aba734-6dce-42dd-90b2-c158a6fdaf59)
 ![image](https://github.com/leson207/ID_Card/assets/74070396/bfe0231e-8864-4d4f-8783-97b158185def)
 .............
