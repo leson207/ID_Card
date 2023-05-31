@@ -5,12 +5,8 @@
 - Project contain 2 part:
   - Crop and detect: Crop a smaller image that contain all the ID_Card from the input image and detect region of infomation from croped image, 
     - Using Image Procesing(Crop_DIP): Aplly SIFT and RANSAC argorithm on input image and template image then detect by mapping cordinate.
-      - Input![image](https://github.com/leson207/ID_Card/assets/74070396/0068526c-a752-4357-8d25-c9093a69b1d4)
-      - Template ![image](https://github.com/leson207/ID_Card/assets/74070396/b9797879-4966-43a4-b570-42e325dd0fc8)
-      - Crop![image](https://github.com/leson207/ID_Card/assets/74070396/c0f77018-c706-4ffa-aeaa-abc46381651f)
     - Using DeepLearning(Crop_DL): Build DL model for both crop and detect task.
-      - Crop![image](https://github.com/leson207/ID_Card/assets/74070396/bbcd51f7-4f3b-4158-98f9-fa6b62d15db6)
-      - Detect ![image](https://github.com/leson207/ID_Card/assets/74070396/a1893ae8-3502-4a6c-8159-30a96dc2ccf4)
+    - FOR THE SAKE OF PERSONAL INFOMATION SECURITY, THERE NO EXAMPLE IMAGE HERE
   - Extract infomation: extract information from detected area using DL
  
 ![image](https://github.com/leson207/ID_Card/assets/74070396/49c1b522-f427-4c9a-ba07-081118aff8f5)
