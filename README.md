@@ -1,7 +1,7 @@
 # Retrival information form Vietnamese ID-Card
 - link model detect corner : https://drive.google.com/drive/folders/1dDYQSWxR0BCAAebrdT4hqnNii4nYbIxT?usp=share_link
 - link model detect info : https://drive.google.com/drive/folders/1dr5jj1dG-NKT3y4Zpax9SrcGf9QNXAr1?usp=share_link
-- Problem: From a picture of an id-Card, extrac its infomation
+- Problem: From a picture of an id-Card, extract its infomation
 - Project contain 2 part:
   - Crop and detect: Crop a smaller image that contain all the ID_Card from the input image and detect region of infomation from croped image, 
     - Using Image Procesing(Crop_DIP): Aplly SIFT and RANSAC argorithm on input image and template image then detect by mapping cordinate.
