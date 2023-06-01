@@ -9,10 +9,16 @@
     - FOR THE SAKE OF PERSONAL INFOMATION SECURITY, THERE NO EXAMPLE IMAGE HERE
   - Extract infomation: extract information from detected area using DL
  
-![image](https://github.com/leson207/ID_Card/assets/74070396/49c1b522-f427-4c9a-ba07-081118aff8f5)
-![image](https://github.com/leson207/ID_Card/assets/74070396/a38d38ba-a4b5-40e9-a583-5bb5f32310ec)
-![image](https://github.com/leson207/ID_Card/assets/74070396/8621ff91-92fc-43f4-a929-a94d5be45cd1)
-![image](https://github.com/leson207/ID_Card/assets/74070396/041237f6-540d-445c-9dc8-2ab40f8714eb)
-![image](https://github.com/leson207/ID_Card/assets/74070396/78aba734-6dce-42dd-90b2-c158a6fdaf59)
-![image](https://github.com/leson207/ID_Card/assets/74070396/bfe0231e-8864-4d4f-8783-97b158185def)
+![image](https://github.com/leson207/ID_Card/assets/74070396/49c1b522-f427-4c9a-ba07-081118aff8f5)=09/12/2026
+
+![image](https://github.com/leson207/ID_Card/assets/74070396/a38d38ba-a4b5-40e9-a583-5bb5f32310ec)=09/12/2001
+
+![image](https://github.com/leson207/ID_Card/assets/74070396/8621ff91-92fc-43f4-a929-a94d5be45cd1)=Giao xuân
+
+![image](https://github.com/leson207/ID_Card/assets/74070396/041237f6-540d-445c-9dc8-2ab40f8714eb)=Giao thủy
+
+![image](https://github.com/leson207/ID_Card/assets/74070396/78aba734-6dce-42dd-90b2-c158a6fdaf59)=Nam Định
+
+![image](https://github.com/leson207/ID_Card/assets/74070396/bfe0231e-8864-4d4f-8783-97b158185def)=Việt Nam
+
 .............
